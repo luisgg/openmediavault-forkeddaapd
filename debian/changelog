@@ -1,8 +1,9 @@
-openmediavault-forkeddaapd (0.4-0aurex1) precise; urgency=low
+openmediavault-forkeddaapd (0.4+svn339-0aurex1) precise; urgency=low
 
-  * Rebuild for aurex 12.04
+  * New upstream snapshot, based on 'trunk' revision 339 (2012-10-12)
+  * Merge with latest upstream sources and rebuild for aurex 12.04
 
- -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Thu, 11 Oct 2012 09:28:41 +0200
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Fri, 12 Oct 2012 21:13:25 +0200
 
 openmediavault-forkeddaapd (0.4) stable; urgency=low
 
